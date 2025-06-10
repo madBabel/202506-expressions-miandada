@@ -10,7 +10,7 @@ Consolidar conocimientos sobre expresiones, variables de entorno y funciones en 
 
 1. **Crear un archivo de flujo de trabajo** llamado `expressions.yaml` en la carpeta `.github/workflows` en la raíz del repositorio. El flujo debe cumplir con las siguientes características:
    
-   * **Nombre:** 08 Expressions
+   * **Nombre:** Expressions
    * **Desencadenantes:** 
     - `pull request`
     - `workflow_dispatch`. 
